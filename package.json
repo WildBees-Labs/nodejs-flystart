@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-flystart",
+  "private": false,
+  "version": "1.0.0",
+  "description": "On-the-fly start in NodeJS to human-beings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "keywords": [
+	"node.js",
+	"on-the-fly"
+  ],
+  "author": "Alexander R <alexander.rogalsky@yandex.ru> (https://linkedin.com/in/alexander-rogalsky-985a4828)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildBees-Labs/nodejs-flystart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WildBees-Labs/nodejs-flystart/issues"
+  },
+  "homepage": "https://github.com/WildBees-Labs/nodejs-flystart#readme"
+}
